@@ -2,9 +2,9 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/derx/openscope/reZ)](https://goreportcard.com/report/github.com/derx/openscope/reZ)
-[![Documentation](https://img.shields.io/badge/docs-godoc-blue.svg)](https://pkg.go.dev/github.com/derx/openscope/reZ)
-[![GitHub stars](https://img.shields.io/github/stars/derx/openscope?style=social)](https://github.com/derx/openscope)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zarazaex69/openscope/reZ)](https://goreportcard.com/report/github.com/zarazaex69/openscope/reZ)
+[![Documentation](https://img.shields.io/badge/docs-godoc-blue.svg)](https://pkg.go.dev/github.com/zarazaex69/openscope/reZ)
+[![GitHub stars](https://img.shields.io/github/stars/zarazaex69/openscope?style=social)](https://github.com/zarazaex69/openscope)
 
 🔄 Go library for working with Zhipu AI API (GLM-4.6) through reverse engineering.
 
